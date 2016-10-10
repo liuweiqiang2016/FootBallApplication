@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/news">
+        <menu>
+            <item
+                android:id="@+id/nav_innews"
+                android:checkable="true"
+                android:icon="@drawable/ic_in"
+                android:title="@string/in_news" />
+            <item
+                android:id="@+id/nav_ennews"
+                android:checkable="true"
+                android:icon="@drawable/ic_en"
+                android:title="@string/en_news" />
+            <item
+                android:id="@+id/nav_spnews"
+                android:checkable="true"
+                android:icon="@drawable/icon_sp"
+                android:title="@string/sp_news" />
+            <item
+                android:id="@+id/nav_genews"
+                android:checkable="true"
+                android:icon="@drawable/ic_ge"
+                android:title="@string/ge_news" />
+            <item
+                android:id="@+id/nav_itnews"
+                android:checkable="true"
+                android:icon="@drawable/ic_it"
+                android:title="@string/it_news" />
+            <item
+                android:id="@+id/nav_cnnews"
+                android:checkable="true"
+                android:icon="@drawable/ic_csl"
+                android:title="@string/cn_news" />
+        </menu>
+    </item>
+
+    <item android:title="@string/bbs">
+        <menu>
+            <item
+                android:id="@+id/nav_ftbbs"
+                android:checkable="true"
+                android:icon="@drawable/ic_ft"
+                android:title="@string/football_bbs" />
+            <item
+                android:id="@+id/nav_clubbbs"
+                android:checkable="true"
+                android:icon="@drawable/ic_clubs"
+                android:title="@string/club_bbs" />
+            <item
+                android:id="@+id/nav_bxjbbs"
+                android:checkable="true"
+                android:icon="@drawable/ic_lv"
+                android:title="@string/bxj_bbs" />
+        </menu>
+    </item>
+
+    <item android:title="@string/Functions">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:checkable="true"
+                android:icon="@drawable/ic_about"
+                android:title="@string/app_about" />
+            <item
+                android:id="@+id/nav_exit"
+                android:checkable="true"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/app_exit" />
+        </menu>
+    </item>
+
+</menu>

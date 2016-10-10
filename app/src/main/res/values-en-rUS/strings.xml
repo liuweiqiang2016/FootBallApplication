@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hupu Football</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="in_news">International Football</string>
+    <string name="en_news">Premier League</string>
+    <string name="sp_news">La Liga</string>
+    <string name="ge_news">Bundesliga</string>
+    <string name="it_news">Serie A</string>
+    <string name="cn_news">CSL</string>
+    <string name="football_bbs">Football BBS</string>
+    <string name="bbs">BBS</string>
+    <string name="news">News</string>
+    <string name="main_toast">Have been back to MainPage</string>
+    <string name="bxj_bbs">BuXingJie BBS</string>
+    <string name="club_bbs">Club BBS</string>
+    <string name="Functions">Functions</string>
+    <string name="app_update">Update</string>
+    <string name="app_about">About APP</string>
+    <string name="app_exit">Exit</string>
+    <string name="bbs_about">The most professional football BBS</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_email">E-mail:liu.weiqiang@foxmail.com</string>
+    <string name="error_txt">Network anomaly, please check whether the network connection,and then try again.</string>
+    <string name="error_replay">Retry</string>
+    <string name="app_about_content">This APP is designed to help users to have more comfortable experience when visiting HuPu Football.If have any questions,please send email to me. Thank you very much!</string>
+
+
+</resources>
